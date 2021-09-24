@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @SahuSumanta
-- 👀 I’m interested in Java
+- # **Hey 👋 I'm SUMANTA.** 
+
+- 👀 I am passionate about Java, Android Development & I enjoy learning new things.
 - 🌱 I’m currently learning more about it.
 - 💞️ I’m looking to collaborate on project and internships.
 - 📫 How to reach me smsahu9@gmail.com
