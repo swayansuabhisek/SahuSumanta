@@ -1,11 +1,15 @@
-- # **Hey 👋 I'm SUMANTA.** 
+ # **Hey 👋 I'm SUMANTA.** 
+ 
+ ### About me :india:
+ :brain: I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.<br />
+ :technologist:I am passionate about Android Dev, Web Dev, AI&ML I enjoy learning new things.
+ 
+ ## My Experiences :office:
+ [@PrepBytes](https://www.prepbytes.com/campus-business-manager) Campus business Manager.<br />
+ [@WhitehatJr](https://www.whitehatjr.com/) UE Intern.
+ 
 
-- 👀 I am passionate about Java, Android Development & I enjoy learning new things.
-- 🌱 I’m currently learning more about it.
-- 💞️ I’m looking to collaborate on project and internships.
-- 📫 How to reach me smsahu9@gmail.com
 
-<!---
-SahuSumanta/SahuSumanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
